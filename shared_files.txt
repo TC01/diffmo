@@ -1,0 +1,12 @@
+SHARED NTUPLES:
+
+----------- TEMPLATE ------------
+FILE NAME:
+DATE CREATED:
+LOCATION:
+SOURCE PAT-UPLE:
+JEC RELEASE:
+CREATED BY:
+NOTEs:
+---------------------------------
+##############
